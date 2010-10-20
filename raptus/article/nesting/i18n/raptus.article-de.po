@@ -1,0 +1,41 @@
+# Simon Käser <skaeser@raptus.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: raptus.article\n"
+"POT-Creation-Date: 2010-01-19 12:35+0000\n"
+"PO-Revision-Date: 2010-01-11 14:03+0000\n"
+"Last-Translator: Simon Käser <skaeser@raptus.com>\n"
+"Language-Team: German <skaeser@raptus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: de\n"
+"Language-Name: Deutsch\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: raptus.article\n"
+"X-Is-Fallback-For: de-at de-li de-lu de-ch de-de\n"
+
+#. Default: "Select the components in which this article should be displayed."
+#: raptus.article.nesting/raptus/article/nesting/extender.py:52
+msgid "description_component_selection_article"
+msgstr ""
+"Wählen Sie die Komponenten aus in welchen dieser Artikel angezeigt werden "
+"soll."
+
+#. Default: "Whether this article has detail content other than title and description and therefore should be linked to from listings or not."
+#: raptus.article.nesting/raptus/article/nesting/extender.py:62
+msgid "description_display"
+msgstr ""
+"Ob dieser Artikel über Detailinhalte verfügt und somit aus Listen zu diesem "
+"verlinkt werden soll oder nicht."
+
+#. Default: "Component selection"
+#: raptus.article.nesting/raptus/article/nesting/extender.py:53
+msgid "label_component_selection"
+msgstr "Komponentenauswahl"
+
+#. Default: "Detail"
+#: raptus.article.nesting/raptus/article/nesting/extender.py:63
+msgid "label_display"
+msgstr "Detail"

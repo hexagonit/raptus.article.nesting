@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<import-steps>
+  <import-step id="raptus.article.nesting" version="20091216-01"
+               handler="raptus.article.nesting.setuphandlers.install"
+               title="raptus.article.nesting install">
+   Installs raptus.article.nesting
+  </import-step>
+</import-steps>

@@ -1,0 +1,22 @@
+Developer Manual
+================
+
+Note: You find a developer manual for raptus.article at 
+`raptus.article.core <http://pypi.python.org/pypi/raptus.article.core>`_.
+Please have look there if you need more information.
+
+Code overview
+=============
+
+Interfaces
+----------
+file: interfaces.py
+
+- IArticles (Provider for articles contained in an article)
+    - getArticles - method (Returns a list of articles (catalog brains))
+
+Schema extender
+---------------
+file: extender.py
+
+- ArticleExtender - for IArticle

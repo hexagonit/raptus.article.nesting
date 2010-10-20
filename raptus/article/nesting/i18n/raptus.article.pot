@@ -1,0 +1,39 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2010-01-19 12:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: raptus.article\n"
+
+#. Default: "Select the components in which this article should be displayed."
+#: raptus.article.nesting/raptus/article/nesting/extender.py:52
+msgid "description_component_selection_article"
+msgstr ""
+
+#. Default: "Whether this article has detail content other than title and description and therefore should be linked to from listings or not."
+#: raptus.article.nesting/raptus/article/nesting/extender.py:62
+msgid "description_display"
+msgstr ""
+
+#. Default: "Component selection"
+#: raptus.article.nesting/raptus/article/nesting/extender.py:53
+msgid "label_component_selection"
+msgstr ""
+
+#. Default: "Detail"
+#: raptus.article.nesting/raptus/article/nesting/extender.py:63
+msgid "label_display"
+msgstr ""
+
