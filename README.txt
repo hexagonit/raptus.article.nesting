@@ -6,10 +6,12 @@ other listings.
 
 The following features for raptus.article are provided by this package:
 
+Content
+-------
     * Provides nesting support for articles
 
-Dependencies:
-
+Dependencies
+------------
     * archetypes.schemaextender
     * raptus.article.core
 
@@ -49,7 +51,7 @@ Usage
 =====
 
 Add article
----------
+-----------
 You may now add articles in your article. Click the "Add new" menu and select "Article" in the pull down menu.
 You get the standard plone form to add your article. 
 
@@ -57,15 +59,13 @@ Components
 ----------
 The following packages provide components to display contained articles:
 
-* `raptus.article.listings <http://pypi.python.org/pypi/raptus.article.listings>`_
-* `raptus.article.contentfader <http://pypi.python.org/pypi/raptus.article.contentfader>`_
-* `raptus.article.contentflow <http://pypi.python.org/pypi/raptus.article.contentflow>`_
-* `raptus.article.randomcontent <http://pypi.python.org/pypi/raptus.article.randomcontent>`_
+    * `raptus.article.listings <http://pypi.python.org/pypi/raptus.article.listings>`_
+    * `raptus.article.contentfader <http://pypi.python.org/pypi/raptus.article.contentfader>`_
+    * `raptus.article.contentflow <http://pypi.python.org/pypi/raptus.article.contentflow>`_
+    * `raptus.article.randomcontent <http://pypi.python.org/pypi/raptus.article.randomcontent>`_
 
 Copyright and credits
 =====================
 
-raptus.article is copyrighted by raptus_, and licensed under the GPL. 
+raptus.article is copyrighted by `Raptus AG <http://raptus.com>`_ and licensed under the GPL. 
 See LICENSE.txt for details.
-
-.. _raptus: http://raptus.com/ 

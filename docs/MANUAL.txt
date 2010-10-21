@@ -10,13 +10,15 @@ Code overview
 
 Interfaces
 ----------
-file: interfaces.py
 
+file: interfaces.py
+```````````````````
 - IArticles (Provider for articles contained in an article)
     - getArticles - method (Returns a list of articles (catalog brains))
 
 Schema extender
 ---------------
-file: extender.py
 
+file: extender.py
+`````````````````
 - ArticleExtender - for IArticle
